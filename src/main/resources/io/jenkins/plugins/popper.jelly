@@ -1,0 +1,9 @@
+<?jelly escape-by-default='true'?>
+<!--
+Use it like <st:adjunct includes="io.jenkins.plugins.popper"/>
+-->
+<j:jelly xmlns:j="jelly:core">
+
+  <script type="module" src="${resURL}/plugin/popper-api/webjars/popper.min.js"/>
+
+</j:jelly>
