@@ -13,7 +13,7 @@
   <groupId>io.jenkins.plugins</groupId>
   <packaging>hpi</packaging>
   <name>Popper.js API Plugin</name>
-  <version>1.15.0-1-SNAPSHOT</version>
+  <version>1.15.0-1-beta1-SNAPSHOT</version>
   <description>Jenkins plug-in that provides Popper.js.</description>
 
   <properties>
