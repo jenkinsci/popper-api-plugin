@@ -14,16 +14,16 @@ This plugin contains the latest [WebJars](https://www.webjars.org) release and c
 
 In order to use this JS library, add a maven dependency to your pom:
 ```xml
-    <dependency>
-      <groupId>io.jenkins.plugins</groupId>
-      <artifactId>popper-api</artifactId>
-      <version>[latest version]</version>
-    </dependency>
+<dependency>
+  <groupId>io.jenkins.plugins</groupId>
+  <artifactId>popper-api</artifactId>
+  <version>[latest version]</version>
+</dependency>
 ```
 
 Then you can use Popper.js in your jelly files using the following snippet:
 ```xml
-      <st:adjunct includes="io.jenkins.plugins.popper"/>
+<st:adjunct includes="io.jenkins.plugins.popper"/>
 ```
  
 You can find several examples of Jenkins views that use Popper.js in the 
