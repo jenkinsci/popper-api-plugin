@@ -21,7 +21,7 @@
   <properties>
     <revision>1.15.0-3-beta1</revision>
     <changelist>-SNAPSHOT</changelist>
-    <popper.version>1.15.0</popper.version>
+    <popper.version>1.16.0</popper.version>
 
     <module.name>${project.groupId}.popper</module.name>
   </properties>
