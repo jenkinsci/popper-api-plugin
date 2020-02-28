@@ -18,7 +18,7 @@
   <url>https://github.com/jenkinsci/popper-api-plugin</url>
 
   <properties>
-    <revision>1.16.0-5-beta1</revision>
+    <revision>1.16.0-6</revision>
     <changelist>-SNAPSHOT</changelist>
     <popper.version>1.16.0</popper.version>
 
@@ -96,9 +96,9 @@
   </build>
 
   <scm>
-    <connection>scm:git:git://github.com/jenkinsci/${project.artifactId}-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:jenkinsci/${project.artifactId}-plugin.git</developerConnection>
-    <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
+    <connection>scm:git:git://github.com/jenkinsci/popper-api-plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/popper-api-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/popper-api-plugin</url>
     <tag>${scmTag}</tag>
   </scm>
 
