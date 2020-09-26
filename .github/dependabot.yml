@@ -36,6 +36,9 @@ updates:
       - dependency-name: org.apache.maven.plugins:maven-failsafe-plugin
         versions:
           - "3.0.0-M5"
+      - dependency-name: org.webjars:popper.js
+        versions:
+          - ">= 2.0.0"
 
   - package-ecosystem: "github-actions"
     directory: "/"
