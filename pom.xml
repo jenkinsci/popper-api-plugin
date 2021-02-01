@@ -18,7 +18,7 @@
   <url>https://github.com/jenkinsci/popper-api-plugin</url>
 
   <properties>
-    <revision>1.16.0-8</revision>
+    <revision>1.16.1-1</revision>
     <changelist>-SNAPSHOT</changelist>
     <popper.version>1.16.1-lts</popper.version>
 
