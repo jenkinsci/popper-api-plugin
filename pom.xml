@@ -12,13 +12,13 @@
   <groupId>io.jenkins.plugins</groupId>
   <packaging>hpi</packaging>
   <name>Popper.js API Plugin</name>
-  <version>1.16.1-2</version>
+  <version>${revision}${changelist}</version>
 
   <description>Provides Popper.js for Jenkins plugins.</description>
   <url>https://github.com/jenkinsci/popper-api-plugin</url>
 
   <properties>
-    <revision>1.16.1-2</revision>
+    <revision>1.16.1-3</revision>
     <changelist>-SNAPSHOT</changelist>
     <popper.version>1.16.1-lts</popper.version>
 
@@ -99,7 +99,7 @@
     <connection>scm:git:git://github.com/jenkinsci/popper-api-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:jenkinsci/popper-api-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/popper-api-plugin</url>
-    <tag>v1.16.1-2</tag>
+    <tag>${scmTag}</tag>
   </scm>
 
   <repositories>
